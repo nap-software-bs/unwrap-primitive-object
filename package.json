@@ -1,0 +1,19 @@
+{
+  "name": "@nap-software-bs/unwrap-primitive-object",
+  "version": "0.0.1",
+  "description": "Unwraps (i.e. converts) a primitive (Number, String, Boolean, BigInt) object into a primitive value.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nap-software-bs/unwrap-primitive-object.git"
+  },
+  "author": "NAP-Software <info@nap.software>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nap-software-bs/unwrap-primitive-object/issues"
+  },
+  "homepage": "https://github.com/nap-software-bs/unwrap-primitive-object#readme"
+}
